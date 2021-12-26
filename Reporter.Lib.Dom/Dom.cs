@@ -19,5 +19,7 @@ namespace Reporter.Lib.Dom
                 Value = value
             });
         }
+
+        public List<Element> GetDom() => _dom;
     }
 }
