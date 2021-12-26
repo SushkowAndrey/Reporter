@@ -1,5 +1,4 @@
 ﻿using System.Text.Json;
-using Reporter.Lib.Dom;
 
 namespace Reporter.Lib
 {
