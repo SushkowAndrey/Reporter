@@ -4,7 +4,7 @@ namespace Reporter.Lib.Dom
 {
     public class Dom
     {
-        private List<Element> _dom;
+        private readonly List<Element> _dom;
 
         public Dom()
         {
